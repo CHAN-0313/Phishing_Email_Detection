@@ -1,0 +1,63 @@
+email_text,label
+"Hello John, we have updated your account settings. No action required.",0
+"Your invoice is attached. Thank you for your business.",0
+"Reminder: your library books are due tomorrow.",0
+"The meeting agenda has been updated, please review the attachment.",0
+"Thank you for your recent purchase at our online store.",0
+"Your subscription renewal is complete and no action is required.",0
+"Friendly reminder: your delivery will arrive next week.",0
+"Your password was changed successfully. If you did not authorize this, contact support.",0
+"System notice: your backup completed successfully.",0
+"Welcome to your new account. Get started by exploring your dashboard.",0
+"Sale alert: 50% off on winter essentials. Shop now.",0
+"Your appointment is confirmed for Monday at 10:00 AM.",0
+"Thanks for attending yesterday's webinar. Here is the recording.",0
+"Your order has shipped and is estimated to arrive in 3 days.",0
+"Your flight itinerary is attached. Please confirm your seat selection.",0
+"Notice: your bank statement is now available for viewing.",0
+"Congratulations! Your access request has been approved.",0
+"We have received your support ticket and will respond shortly.",0
+"All systems are running normally. No further action is needed.",0
+"Weekly newsletter: top trends, security tips, and best practices.",0
+"Your travel itinerary has been updated with your latest reservation.",0
+"Welcome back! We missed you and your account is ready to use.",0
+"A new comment was added to your project. View it now.",0
+"Your membership has been renewed successfully.",0
+"Your service request was completed. Enjoy the updated features.",0
+"New sign-in from a recognized device. No action required.",0
+"Your password reset request is confirmed. The change was successful.",0
+"Notification: your profile has been updated.",0
+"This is a friendly reminder about your upcoming class.",0
+"All set! Your settings have been saved.",0
+"Urgent: verify your account now at http://malicious.example.com/login to avoid suspension",1
+"Alert: unauthorized sign-in detected. Click http://bit.ly/verify to secure your account.",1
+"Your bank account has been temporarily locked due to suspicious activity.",1
+"Please confirm your identity by signing in at http://secure-login.verify-account.com.",1
+"Final warning: your account will be closed if you do not act immediately.",1
+"Click here to update your payment information and avoid service interruption.",1
+"Your mailbox is almost full. Upgrade now to keep receiving messages.",1
+"Suspicious login attempt detected. Verify via http://tinyurl.com/secure-login.",1
+"We've detected a problem with your billing details. Resolve it immediately.",1
+"Your password expires today. Reset it now to prevent lockout.",1
+"Important: your order details have changed. Confirm at http://phish.example.com.",1
+"Security alert: your device is at risk. Install the update from the link below.",1
+"You have received a secure message. Access it using the link provided.",1
+"Your refund request has been denied. Please verify your information.",1
+"This is your final notice before account suspension.",1
+"Account verification required. Please sign in now to avoid closure.",1
+"Suspicious activity noticed on your email. Click to review your messages.",1
+"Your identity needs confirmation. Follow the link to complete verification.",1
+"We couldn't verify your payment. Confirm details immediately.",1
+"Your profile has been compromised. Update your credentials here.",1
+"You've won a prize! Claim it by entering your account information.",1
+"Please review the attached invoice and confirm your banking details.",1
+"Your loyalty points are invalid until you confirm your account.",1
+"This notice is from security. Verify your account by clicking the link.",1
+"Security team: your account will be removed unless you verify it now.",1
+"Your subscription has issues. Resolve them through the secure portal.",1
+"Credit card validation required. Click the link in this email.",1
+"Confirm your email address to prevent access loss.",1
+"Your login attempt failed. Re-enter credentials here.",1
+"Verify your payment method to continue service.",1
+"Action required: confirm your personal details on the secure site.",1
+"A new device signed in to your account. Confirm this activity.",1

@@ -1,0 +1,59 @@
+{
+  "accuracy": 0.5384615384615384,
+  "precision": 0.6,
+  "recall": 0.42857142857142855,
+  "f1": 0.5,
+  "roc_auc": 0.7142857142857143,
+  "confusion_matrix": [
+    [
+      4,
+      2
+    ],
+    [
+      4,
+      3
+    ]
+  ],
+  "top_features": [
+    {
+      "feature": "account",
+      "importance": 0.05780127874633668
+    },
+    {
+      "feature": "secure",
+      "importance": 0.027563415858245132
+    },
+    {
+      "feature": "verify",
+      "importance": 0.02347382996708003
+    },
+    {
+      "feature": "details",
+      "importance": 0.022341763931595038
+    },
+    {
+      "feature": "confirm",
+      "importance": 0.016695017107475677
+    },
+    {
+      "feature": "update",
+      "importance": 0.01649166731830018
+    },
+    {
+      "feature": "updated",
+      "importance": 0.014119060860683763
+    },
+    {
+      "feature": "security",
+      "importance": 0.012534323954620317
+    },
+    {
+      "feature": "link",
+      "importance": 0.012362484374898005
+    },
+    {
+      "feature": "credentials",
+      "importance": 0.011526967919511799
+    }
+  ]
+}
